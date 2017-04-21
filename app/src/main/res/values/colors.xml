@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <color name="colorPrimary">#787b80</color>
+    <color name="colorPrimaryDark">#17191d</color>
+    <color name="colorAccent">#be1e2d</color>
+    <color name="white">#ffffff</color>
+
+    <!--background type-->
+    <color name="backgroundGrey">#eeeff0</color>
+    <color name="stroke">#c8cace</color>
+    <color name="dateBorder">#b1b3b5</color>
+    <color name="divider">#8c9097</color>
+
+
+    <!--text colors-->
+    <color name="TextCondensedBoldDark">#363940</color>
+    <color name="TextCondensedBoldLight">#888b90</color>
+    <color name="TextCondensedRegularDark">#787b80</color>
+    <color name="TextCondensedRegularLight">#eeeff0</color>
+</resources>
